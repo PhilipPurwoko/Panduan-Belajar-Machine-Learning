@@ -2,7 +2,7 @@
 Repository untuk panduan Machine Learning project di Medium dengan Jupyter Notebook
 
 ## Urutan Artikel
-1. [Mari Berkenalan Dengan Machine Learning](https://medium.com/easyread/mari-berkenalan-dengan-machine-learning-b4778ff2914a)
+1. [Belajar Fundamental Machine Learning Untuk Pemula](https://medium.com/easyread/mari-berkenalan-dengan-machine-learning-b4778ff2914a)
 2. [Membuat Proyek Machine Learning dengan Python — Part 1](https://medium.com/easyread/membuat-proyek-machine-learning-dengan-python-part-1-8e8a03095636)
 3. [Membuat Proyek Machine Learning dengan Python — Part 2](https://medium.com/easyread/membuat-proyek-machine-learning-dengan-python-part-2-5a3b33d6aca6)
 
